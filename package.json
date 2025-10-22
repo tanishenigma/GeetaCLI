@@ -1,0 +1,49 @@
+{
+  "name": "geetacli",
+  "version": "1.0.0",
+  "description": "A beautiful CLI tool to read and explore the Bhagavad Gita with interactive TUI, multiple themes, bookmarks, and search functionality",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "geeta": "./cli.js"
+  },
+  "keywords": [
+    "bhagavad-gita",
+    "gita",
+    "krishna",
+    "hinduism",
+    "scripture",
+    "cli",
+    "terminal",
+    "tui",
+    "spiritual",
+    "vedic",
+    "sanskrit"
+  ],
+  "author": "Your Name <tanish23@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanishenigma/geetCLI.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tanishenigma/geetCLI/issues"
+  },
+  "homepage": "https://github.com/tanishenigma/geetCLI#readme",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "files": [
+    "cli.js",
+    "utils/",
+    "geeta/"
+  ],
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "chalk": "^5.6.2",
+    "commander": "^14.0.1"
+  }
+}

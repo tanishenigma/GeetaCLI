@@ -1,0 +1,25 @@
+# Development files
+.git
+.gitignore
+node_modules
+*.log
+.DS_Store
+
+# Testing
+test/
+tests/
+*.test.js
+
+# Documentation (keep README.md)
+docs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Misc
+.env
+.env.local
