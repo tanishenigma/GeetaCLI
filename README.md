@@ -1,6 +1,6 @@
 # Geeta CLI 🕉️
 
-A beautiful command-line interface tool Vibe coded in an hour to read and explore the Bhagavad Gita (Śrīmad-Bhāgavat-gītā) with an interactive terminal UI, multiple Pandava-themed color schemes, bookmarks, and powerful search functionality.
+A beautiful command-line interface tool coded in an hour to read and explore the Bhagavad Gita (Śrīmad-Bhāgavat-gītā) with an interactive terminal UI, multiple Pandava-themed color schemes, bookmarks, and powerful search functionality.
 
 ```
           Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
@@ -22,13 +22,13 @@ A beautiful command-line interface tool Vibe coded in an hour to read and explor
 ### Global Installation (Recommended)
 
 ```bash
-npm install -g geetacli
+npm install -g geeta-cli
 ```
 
 ### Local Installation
 
 ```bash
-npm install geetacli
+npm install geeta-cli
 npx geeta
 ```
 
